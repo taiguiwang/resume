@@ -43,8 +43,8 @@
 ----------------------------------------------------------------- */
 
 *,
-::before,
-::after {
+ ::before,
+ ::after {
     background-repeat: no-repeat;
     box-sizing: border-box;
 }
@@ -415,12 +415,12 @@ iframe {
     }
 }
 
-::-moz-selection {
+ ::-moz-selection {
     background: transparent;
     color: #304CFD;
 }
 
-::selection {
+ ::selection {
     background: transparent;
     color: #304CFD;
 }
